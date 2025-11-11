@@ -1,7 +1,7 @@
 Trabajo Práctico de Laboratorio N°1 de la especialización Análisis de Datos del Informatorio.
 
-## Link notebook Colab  
-[![Abrir en Colab][[(https://colab.research.google.com/drive/19K-6TMueK-_OyDZhPw8wG3fVZwbid2le?usp=sharing)]](https://colab.research.google.com/github/Kokoteros/Analisis-Datos-Informatorio-TP1/blob/main/Dataset_MercadoInt_Vino2024.ipynb)
+## Link notebook Colab [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kokoteros/Analisis-Datos-Informatorio-TP1/blob/main/Dataset_MercadoInt_Vino2024.ipynb)
+
 
 ---
 
