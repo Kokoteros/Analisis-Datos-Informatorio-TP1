@@ -1,7 +1,7 @@
 Trabajo Práctico de Laboratorio N°1 de la especialización Análisis de Datos del Informatorio.
 
 ## Link notebook Colab  
-[![Abrir en Colab]([[https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPOSITORIO/blob/main/Mercado_Interno_Vinos_2024.ipynb](https://colab.research.google.com/drive/19K-6TMueK-_OyDZhPw8wG3fVZwbid2le#scrollTo=DjC4gcR6tpLB)](https://colab.research.google.com/drive/19K-6TMueK-_OyDZhPw8wG3fVZwbid2le?usp=sharing))
+[![Abrir en Colab][(https://colab.research.google.com/drive/19K-6TMueK-_OyDZhPw8wG3fVZwbid2le?usp=sharing)]
 
 ---
 
