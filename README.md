@@ -1,12 +1,12 @@
 Trabajo Práctico de Laboratorio N°1 de la especialización Análisis de Datos del Informatorio.
 
 ## Link notebook Colab  
-[![Abrir en Colab][(https://colab.research.google.com/drive/19K-6TMueK-_OyDZhPw8wG3fVZwbid2le?usp=sharing)]
+[![Abrir en Colab][[(https://colab.research.google.com/drive/19K-6TMueK-_OyDZhPw8wG3fVZwbid2le?usp=sharing)]](https://colab.research.google.com/github/Kokoteros/Analisis-Datos-Informatorio-TP1/blob/main/Dataset_MercadoInt_Vino2024.ipynb)
 
 ---
 
 ###  
-* **Origen**: Datos obtenidos de Datos Argentina — [[https://www.argentina.gob.ar/inv](https://www.argentina.gob.ar/inv)](https://datos.gob.ar/dataset/agroindustria-inv---actividad-vitivinicola/archivo/agroindustria_90f42554-1305-4c2e-9a2d-ea12b07b82e9)
+* **Origen**: Datos obtenidos de Datos Argentina — (https://datos.gob.ar/dataset/agroindustria-inv---actividad-vitivinicola/archivo/agroindustria_90f42554-1305-4c2e-9a2d-ea12b07b82e9)
 
 * **Descripción**:  
 El dataset “Mercado Interno 2024” recopila información sobre el movimiento de vino en el mercado interno argentino durante el año 2024. Incluye datos de consumo por provincia, tipo de vino, envase, año de elaboración y variedad.  
